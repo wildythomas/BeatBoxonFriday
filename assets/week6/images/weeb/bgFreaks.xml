@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgFreaks.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG fangirls dissuaded0000" x="0" y="0" width="447" height="81" frameX="-3" frameY="0" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0001" x="447" y="0" width="447" height="81" frameX="-3" frameY="0" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0002" x="894" y="0" width="447" height="80" frameX="-3" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0003" x="1341" y="0" width="447" height="80" frameX="-3" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0004" x="0" y="81" width="448" height="78" frameX="-2" frameY="-3" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0005" x="448" y="81" width="447" height="76" frameX="-2" frameY="-5" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0006" x="895" y="81" width="447" height="71" frameX="-2" frameY="-9" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0007" x="1342" y="81" width="448" height="69" frameX="-1" frameY="-11" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0008" x="0" y="159" width="448" height="73" frameX="-1" frameY="-8" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0009" x="448" y="159" width="448" height="75" frameX="-1" frameY="-6" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0010" x="896" y="159" width="449" height="77" frameX="0" frameY="-4" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0011" x="1345" y="159" width="449" height="78" frameX="0" frameY="-3" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0012" x="0" y="237" width="449" height="79" frameX="0" frameY="-2" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0013" x="449" y="237" width="449" height="80" frameX="0" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0014" x="898" y="237" width="449" height="80" frameX="0" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0015" x="1347" y="237" width="449" height="81" frameX="0" frameY="0" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0016" x="0" y="318" width="449" height="81" frameX="0" frameY="0" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0017" x="449" y="318" width="449" height="81" frameX="0" frameY="0" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0018" x="898" y="318" width="449" height="80" frameX="0" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0019" x="1347" y="318" width="449" height="80" frameX="0" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0020" x="0" y="399" width="449" height="78" frameX="0" frameY="-3" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0021" x="449" y="399" width="449" height="76" frameX="0" frameY="-5" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0022" x="898" y="399" width="448" height="72" frameX="-1" frameY="-9" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0023" x="1346" y="399" width="447" height="75" frameX="-2" frameY="-6" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0024" x="0" y="477" width="448" height="77" frameX="-2" frameY="-4" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0025" x="448" y="477" width="447" height="78" frameX="-3" frameY="-3" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0026" x="895" y="477" width="447" height="79" frameX="-3" frameY="-2" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0027" x="1342" y="477" width="447" height="80" frameX="-3" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0028" x="0" y="557" width="447" height="80" frameX="-3" frameY="-1" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG fangirls dissuaded0029" x="447" y="557" width="447" height="81" frameX="-3" frameY="0" frameWidth="450" frameHeight="81"/>
+	<SubTexture name="BG girls group0000" x="894" y="557" width="448" height="82" frameX="0" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0001" x="1342" y="557" width="448" height="82" frameX="0" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0002" x="0" y="639" width="448" height="82" frameX="0" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0003" x="448" y="639" width="448" height="81" frameX="0" frameY="-1" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0004" x="896" y="639" width="448" height="80" frameX="0" frameY="-2" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0005" x="1344" y="639" width="447" height="77" frameX="-1" frameY="-5" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0006" x="0" y="721" width="447" height="74" frameX="-1" frameY="-8" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0007" x="447" y="721" width="447" height="71" frameX="-2" frameY="-11" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0008" x="894" y="721" width="447" height="74" frameX="-2" frameY="-8" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0009" x="1341" y="721" width="446" height="76" frameX="-3" frameY="-6" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0010" x="0" y="797" width="446" height="78" frameX="-3" frameY="-4" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0011" x="446" y="797" width="446" height="80" frameX="-3" frameY="-2" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0012" x="892" y="797" width="446" height="81" frameX="-3" frameY="-1" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0013" x="1338" y="797" width="446" height="81" frameX="-3" frameY="-1" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0014" x="0" y="878" width="446" height="82" frameX="-3" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0015" x="446" y="878" width="446" height="82" frameX="-3" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0016" x="892" y="878" width="446" height="82" frameX="-3" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0017" x="1338" y="878" width="446" height="82" frameX="-3" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0018" x="0" y="960" width="446" height="82" frameX="-3" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0019" x="446" y="960" width="446" height="81" frameX="-3" frameY="-1" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0020" x="892" y="960" width="447" height="80" frameX="-2" frameY="-2" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0021" x="1339" y="960" width="447" height="77" frameX="-2" frameY="-5" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0022" x="0" y="1042" width="447" height="74" frameX="-1" frameY="-8" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0023" x="447" y="1042" width="447" height="76" frameX="-1" frameY="-6" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0024" x="894" y="1042" width="447" height="78" frameX="-1" frameY="-4" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0025" x="1341" y="1042" width="448" height="80" frameX="0" frameY="-2" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0026" x="0" y="1122" width="448" height="81" frameX="0" frameY="-1" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0027" x="448" y="1122" width="448" height="81" frameX="0" frameY="-1" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0028" x="896" y="1122" width="448" height="82" frameX="0" frameY="0" frameWidth="449" frameHeight="82"/>
+	<SubTexture name="BG girls group0029" x="1344" y="1122" width="448" height="82" frameX="0" frameY="0" frameWidth="449" frameHeight="82"/>
+</TextureAtlas>

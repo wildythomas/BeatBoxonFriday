@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EASY0000" x="0" y="0" width="199" height="67"/>
+	<SubTexture name="HARD0000" x="199" y="0" width="211" height="109"/>
+	<SubTexture name="NORMAL0000" x="410" y="0" width="308" height="69"/>
+	<SubTexture name="WEEK1 select0000" x="0" y="109" width="369" height="94"/>
+	<SubTexture name="WEEK1 select0001" x="369" y="109" width="369" height="94"/>
+	<SubTexture name="Week 3 press0000" x="0" y="203" width="448" height="134"/>
+	<SubTexture name="Week 3 press0001" x="448" y="203" width="448" height="134"/>
+	<SubTexture name="Week 4 press0000" x="0" y="337" width="370" height="94"/>
+	<SubTexture name="Week 4 press0001" x="370" y="337" width="370" height="94"/>
+	<SubTexture name="Week 60000" x="0" y="431" width="362" height="103"/>
+	<SubTexture name="Week 60001" x="362" y="431" width="362" height="103"/>
+	<SubTexture name="arrow left0000" x="766" y="431" width="42" height="75"/>
+	<SubTexture name="arrow push left0000" x="724" y="431" width="42" height="75"/>
+	<SubTexture name="arrow push right0000" x="850" y="431" width="42" height="75"/>
+	<SubTexture name="arrow right0000" x="808" y="431" width="42" height="75"/>
+	<SubTexture name="lock0000" x="892" y="431" width="67" height="93"/>
+	<SubTexture name="tutorial selected0000" x="0" y="534" width="443" height="88"/>
+	<SubTexture name="tutorial selected0001" x="443" y="534" width="443" height="88"/>
+	<SubTexture name="week 50000" x="0" y="622" width="350" height="90"/>
+	<SubTexture name="week 50001" x="350" y="622" width="350" height="90"/>
+	<SubTexture name="week2 select0000" x="0" y="712" width="369" height="90"/>
+	<SubTexture name="week2 select0001" x="369" y="712" width="369" height="90"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox-senpaiMad.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SENPAI ANGRY IMPACT SPEECH instance 10000" x="0" y="0" width="209" height="100" frameX="-14" frameY="-30" frameWidth="229" frameHeight="132"/>
+	<SubTexture name="SENPAI ANGRY IMPACT SPEECH instance 10001" x="209" y="0" width="222" height="116" frameX="-7" frameY="-11" frameWidth="229" frameHeight="132"/>
+	<SubTexture name="SENPAI ANGRY IMPACT SPEECH instance 10002" x="0" y="116" width="225" height="128" frameX="-2" frameY="0" frameWidth="229" frameHeight="132"/>
+	<SubTexture name="SENPAI ANGRY IMPACT SPEECH instance 10003" x="225" y="116" width="216" height="129" frameX="0" frameY="0" frameWidth="229" frameHeight="132"/>
+	<SubTexture name="SENPAI ANGRY IMPACT SPEECH instance 10004" x="0" y="245" width="197" height="128" frameX="-1" frameY="-2" frameWidth="229" frameHeight="132"/>
+	<SubTexture name="SENPAI ANGRY IMPACT SPEECH instance 10005" x="197" y="245" width="190" height="125" frameX="-6" frameY="-6" frameWidth="229" frameHeight="132"/>
+	<SubTexture name="SENPAI ANGRY IMPACT SPEECH instance 10006" x="0" y="373" width="203" height="108" frameX="-13" frameY="-24" frameWidth="229" frameHeight="132"/>
+</TextureAtlas>

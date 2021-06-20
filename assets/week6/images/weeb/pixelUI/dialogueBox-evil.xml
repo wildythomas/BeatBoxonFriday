@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox-evil.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spirit Textbox spawn instance 10000" x="0" y="0" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10001" x="249" y="0" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10002" x="498" y="0" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10003" x="747" y="0" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10004" x="0" y="145" width="249" height="162" frameX="0" frameY="-18" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10005" x="249" y="145" width="249" height="180" frameX="0" frameY="0" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10006" x="498" y="145" width="249" height="181" frameX="0" frameY="-9" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10007" x="747" y="145" width="249" height="167" frameX="0" frameY="-26" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10008" x="0" y="326" width="255" height="156" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10009" x="255" y="326" width="259" height="150" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10010" x="514" y="326" width="262" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10011" x="0" y="482" width="261" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10012" x="261" y="482" width="257" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10013" x="518" y="482" width="252" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10014" x="770" y="482" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10015" x="0" y="627" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10016" x="249" y="627" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10017" x="498" y="627" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10018" x="747" y="627" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10019" x="0" y="772" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10020" x="249" y="772" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10021" x="498" y="772" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10022" x="747" y="772" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10023" x="0" y="917" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10024" x="249" y="917" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10025" x="498" y="917" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10026" x="747" y="917" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10027" x="0" y="1062" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10028" x="249" y="1062" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10029" x="498" y="1062" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10030" x="747" y="1062" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10031" x="747" y="1062" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10032" x="0" y="1207" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10033" x="249" y="1207" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10034" x="498" y="1207" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10035" x="747" y="1207" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10036" x="0" y="1352" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10037" x="249" y="1352" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10038" x="498" y="1352" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10039" x="498" y="1352" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10040" x="747" y="1352" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+	<SubTexture name="Spirit Textbox spawn instance 10041" x="0" y="1497" width="249" height="145" frameX="0" frameY="-35" frameWidth="262" frameHeight="193"/>
+</TextureAtlas>

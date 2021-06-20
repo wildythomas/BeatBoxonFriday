@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpaiPortrait.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait Enter instance 10000" x="0" y="0" width="71" height="80" frameX="0" frameY="0" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10001" x="71" y="0" width="78" height="75" frameX="-3" frameY="-2" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10002" x="149" y="0" width="85" height="72" frameX="-5" frameY="-3" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10003" x="0" y="80" width="92" height="69" frameX="-6" frameY="-4" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10004" x="92" y="80" width="96" height="66" frameX="-8" frameY="-5" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10005" x="0" y="149" width="100" height="65" frameX="-9" frameY="-5" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10006" x="100" y="149" width="102" height="63" frameX="-10" frameY="-6" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10007" x="0" y="214" width="105" height="64" frameX="-10" frameY="-6" frameWidth="115" frameHeight="80"/>
+	<SubTexture name="Senpai Portrait Enter instance 10008" x="105" y="214" width="100" height="59" frameX="-11" frameY="-6" frameWidth="115" frameHeight="80"/>
+</TextureAtlas>
